@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "317596726721",
+    "firebase_url": "https://android-agenda-cuc.firebaseio.com",
+    "project_id": "android-agenda-cuc",
+    "storage_bucket": "android-agenda-cuc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317596726721:android:66667db0e3f71faf",
+        "android_client_info": {
+          "package_name": "com.example.agenda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317596726721-akhcs0kf9qi53sgendibp8l0btduvku5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8TheiM3o7o1LyIImI_8Bh88qjYitiuRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317596726721-akhcs0kf9qi53sgendibp8l0btduvku5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

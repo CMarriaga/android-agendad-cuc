@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="create">Crear</string>
+    <string name="list">Listar</string>
+    <string name="name">Nombre</string>
+    <string name="last_name">Apellido</string>
+    <string name="phone">Telefono</string>
+    <string name="cellphone">Celular</string>
+    <string name="save">Guardar</string>
+    <string name="done">Guardado satisfactoriamente</string>
+    <string name="error">No pueden hacer campos vacios</string>
+    <string name="no_records">No hay registro que mostrar</string>
+</resources>
